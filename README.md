@@ -1,6 +1,12 @@
 # Synthetic-Financial-Dataset-EDA
 The **Synthetic Financial Dataset EDA** project is a comprehensive exploratory data analysis (EDA) of a synthetic financial dataset. This project aims to uncover insights and patterns within the dataset, focusing on various aspects of financial transactions, including fraud detection.
 
+### Dataset used:
+`https://www.kaggle.com/datasets/ealaxi/paysim1`
+PaySim first paper of the simulator:
+
+E. A. Lopez-Rojas , A. Elmir, and S. Axelsson. "PaySim: A financial mobile money simulator for fraud detection". In: The 28th European Modeling and Simulation Symposium-EMSS, Larnaca, Cyprus. 2016
+
 ### Key Features:
 - **Data Collection**: The dataset is sourced from Kaggle and includes detailed financial transaction records.
 - **Data Cleaning**: The data is meticulously cleaned to ensure accuracy, including handling missing values, data type conversions, and removing duplicates.

@@ -1,4 +1,4 @@
-# Synthetic Financial Dataset - Fraud Detection EDA
+# Financial Fraud Detection EDA
 
 A comprehensive exploratory data analysis of synthetic financial transaction data to identify patterns and characteristics of fraudulent activities.
 
